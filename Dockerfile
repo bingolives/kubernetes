@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause-amd64:3.1
+FROM gcr.io/google_containers/metrics-server-amd64:v0.2.1
 
