@@ -1,2 +1,2 @@
-FROM prom/prometheus:v2.3.1
+FROM gcr.io/linkerd-io/proxy:v18.8.2
 
