@@ -1,2 +1,2 @@
-FROM gcr.io/linkerd-io/controller:v18.8.2
+FROM gcr.io/distroless/base
 
