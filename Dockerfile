@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.0
 
